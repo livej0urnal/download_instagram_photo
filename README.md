@@ -1,6 +1,6 @@
-Привет это мой репозиторий скрипта на Python который позволяет загружать посты с профиля пользователя Instagram.
-Требует библиотеку instaload. По-этому перед запуском необходимо установить данную библиотеку с помощью менеджера пакетов PiP
+Hi this is my python script repository that allows you to download posts from an instagram user profile.
+Requires the instaload library. Therefore, before starting, you must install this library using the PiP package manager
 -pip install instaloader
-Сам скрипт оптимизирован под обычного пользователя и может запускаться как из под консоли так и редактора при наличии 
+The script itself is optimized for a normal user and can be run both from the console and the editor, if available.
 Python.
-Я буду благодарен если вы оставите отклик!
+I will be grateful if you leave a response!
