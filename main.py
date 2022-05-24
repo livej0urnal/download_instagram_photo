@@ -1,9 +1,9 @@
 import instaloader
 
-profile_name = input("Введите ник: ")
+profile_name = input("Input nickname: ")
 
-print("Загружаю контент....")
+print("Load content....")
 
 instaloader.Instaloader().download_profile(profile_name)
 
-print("Загрузка завершена")
+print("Load complete!")
